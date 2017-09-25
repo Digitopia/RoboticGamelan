@@ -1,2 +1,2 @@
 # RoboticGamelan
-Documents and code of Casa Da Música' Robotic Gong
+Documents and code of Casa Da Música' Robotic Gamelan
